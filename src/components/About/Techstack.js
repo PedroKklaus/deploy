@@ -1,8 +1,8 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { FaHtml5, FaCss3, FaBootstrap, FaAngular, FaReact, FaNodeJs, FaGitAlt, FaGithub, FaDatabase } from "react-icons/fa";
+import { FaHtml5, FaCss3, FaBootstrap, FaAngular, FaReact, FaNodeJs, FaGitAlt, FaGithub } from "react-icons/fa";
 import { DiJavascript1 } from "react-icons/di";
-import { SiCsharp, SiDotnet, SiTypescript, SiMysql, SiPostgresql, SiDbeaver } from "react-icons/si";
+import { SiCsharp, SiDotnet, SiTypescript, SiMysql, SiPostgresql } from "react-icons/si";
 
 function Techstack() {
   return (
